@@ -1,5 +1,8 @@
 package com.example.aviatickets.model.entity
 
+import com.google.gson.FieldNamingPolicy
+import com.google.gson.GsonBuilder
+
 /**
  * think about json deserialization considering its snake_case format
  */
